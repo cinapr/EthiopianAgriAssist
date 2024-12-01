@@ -20,7 +20,7 @@ This repository are including solution ideas and simple software architecture fo
 
 ## Elevator Pitch
 
-Elevator Pitch can be watch on : [Elevator Pitch.mp4](https://youtu.be/pyfHbCiN6Zc)
+Elevator Pitch can be watch on : [Elevator Pitch](https://youtu.be/pyfHbCiN6Zc)
 
 
 
@@ -34,22 +34,22 @@ The mockup prototype can be access on : https://www.figma.com/proto/GsK6ckU4Pvnk
 
 The repository are the weekly updates on how we design system for tackle the agricultural problem:
 1. Week 1 - Problem Definition 
-Presentation 1 - Problem Definition.pdf
+  - Presentation 1 - Problem Definition.pdf
 
 2. Week2 - Market and Competitor Analysis
-Presentation 2 - Market and Competitor Analysis.pdf
-Stakeholder and Market Analysis Matrix.pdf
+  - Presentation 2 - Market and Competitor Analysis.pdf
+  - Stakeholder and Market Analysis Matrix.pdf
 
 3. Week 3 - Prototyping and Sustainability Analysis
-Presentation 3 - Prototyping and Sustainability Analysis.pdf
-Figma
-Sustainability Awareness Report [SusAF].pdf
+  - Presentation 3 - Prototyping and Sustainability Analysis.pdf
+  - [Figma](https://www.figma.com/proto/GsK6ckU4PvnkNWI6tA8Msc/AgriAssist?scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=3-236&starting-point-node-id=3%3A3)
+  - Sustainability Awareness Report (SusAF).pdf
 
 4. Week 4 - - Business Canvas and Impact Analysis
-Presentation 4 - Business Canvas and Impact Analysis.pdf
-Business Canvas.pdf
+  - Presentation 4 - Business Canvas and Impact Analysis.pdf
+  - Business Canvas.pdf
 
 5. Week 5 - Final Presentation
-Presentation 5 - Final Presentation.pdf
-Elevator Pitch.mp4
-Final Report.pdf
+  - Presentation 5 - Final Presentation.pdf
+  - [Elevator Pitch](https://youtu.be/pyfHbCiN6Zc)
+  - Final Report.pdf
