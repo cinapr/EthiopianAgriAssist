@@ -20,7 +20,7 @@ This repository are including solution ideas and simple software architecture fo
 
 ## Elevator Pitch
 
-Elevator Pitch can be watch on : Elevator Pitch.mp4
+Elevator Pitch can be watch on : [Elevator Pitch.mp4](https://youtu.be/pyfHbCiN6Zc)
 
 
 
